@@ -16,4 +16,4 @@ von Vektoroperationen erweitert werden.
   nächsten Pipeline zur Verfügung gestellt
 </div>
 <div><img src=
-"paste-3f7103b8b863cf7f7502bad3731fb29b761aecca.jpg"></div>
+paste-3f7103b8b863cf7f7502bad3731fb29b761aecca.jpg></div>

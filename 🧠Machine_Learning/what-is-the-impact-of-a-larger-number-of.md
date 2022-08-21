@@ -22,4 +22,4 @@ calculating the <b>posterior</b>?
     </div>
 </ul>
 <div><img src=
-"paste-8405ec9aba8b229a8d397ccc0a6285ad26ccd855.jpg"></div>
+paste-8405ec9aba8b229a8d397ccc0a6285ad26ccd855.jpg></div>

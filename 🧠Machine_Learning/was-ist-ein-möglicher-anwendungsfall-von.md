@@ -12,4 +12,4 @@ markdown: false
 nahe, dass ein Datenpunkt sehr verschieden von den übrigen Punkten
 ist.
 <div><img src=
-"paste-f9adfdfac33981ec2b25857eb9ddd712300f5a20.jpg"></div>
+paste-f9adfdfac33981ec2b25857eb9ddd712300f5a20.jpg></div>

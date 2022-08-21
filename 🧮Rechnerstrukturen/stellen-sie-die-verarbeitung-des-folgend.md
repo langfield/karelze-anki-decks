@@ -19,4 +19,4 @@ werden nicht gelöst.
   Bubbles, Pipeline Flushes und Umsortierungen der Befehle.
 </div>
 <div><img src=
-"paste-77d9989d55f1694e136bb7367517a45051ae9135.jpg"></div>
+paste-77d9989d55f1694e136bb7367517a45051ae9135.jpg></div>

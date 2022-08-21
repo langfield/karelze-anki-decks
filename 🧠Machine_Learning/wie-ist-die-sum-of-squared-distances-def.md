@@ -24,4 +24,4 @@ Für gegebene Daten \(D=\left\{\boldsymbol{x}_{1}, \ldots,
   c\left(\boldsymbol{x}_{i}\right)\right)^{2}\)
 </div>
 <div><img src=
-"paste-67c83c3991a1d93a7b0a6f96f28c216b133dd723.jpg"></div>
+paste-67c83c3991a1d93a7b0a6f96f28c216b133dd723.jpg></div>

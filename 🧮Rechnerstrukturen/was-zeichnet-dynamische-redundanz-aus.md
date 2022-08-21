@@ -15,4 +15,4 @@ aktiviert werden, um eine ausgefallene Nutzfunktion zu erbringen.
   <b>Skizze:</b>
 </div>
 <div><img src=
-"paste-8b43720a9920c81aa5aab33b14842503aebd5d7f.jpg"></div>
+paste-8b43720a9920c81aa5aab33b14842503aebd5d7f.jpg></div>

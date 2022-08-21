@@ -13,4 +13,4 @@ Wie stehen die Processing resources und das Resource Environment in Verbindung?
   <b>Abbildung</b> (Allocation) dann:
 </div>
 <div><img src=
-"paste-1e3243359f203f3eed279860320e7bdf1d6542d4.jpg"></div>
+paste-1e3243359f203f3eed279860320e7bdf1d6542d4.jpg></div>

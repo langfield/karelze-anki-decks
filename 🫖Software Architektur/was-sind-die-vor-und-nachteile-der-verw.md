@@ -24,4 +24,4 @@ Was sind die <b>Vor- und Nachteile</b> der Verwendung des
   abzuleiten (siehe Skizze)
 </ul>
 <div><img src=
-"paste-f08bae9c64077bc2b2a7bb210c8d657964bf4afd.jpg"></div>
+paste-f08bae9c64077bc2b2a7bb210c8d657964bf4afd.jpg></div>

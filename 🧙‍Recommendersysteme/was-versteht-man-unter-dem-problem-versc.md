@@ -22,7 +22,7 @@ Zuweisungen sind aber schwer auf freiwilliger Basis zu regeln.
   Produkt gut: \(12\), Produkt schlecht: \(-10\)
 </div>
 <div><img src=
-"paste-e992bbaa44a27b8d67ad3035faf94e5cb2cf6458.jpg"></div>
+paste-e992bbaa44a27b8d67ad3035faf94e5cb2cf6458.jpg></div>
 <div>
   Payoff uninformiert zu konsumieren ist \(+1\). Warten für beide
   Spieler lohnend.
@@ -45,7 +45,7 @@ Zuweisungen sind aber schwer auf freiwilliger Basis zu regeln.
   Das Spieltableau sieht aus:
 </div>
 <div><img src=
-"paste-38fe75cf59040be1bd82217160ec4f28701f157f.jpg"></div>
+paste-38fe75cf59040be1bd82217160ec4f28701f157f.jpg></div>
 <div>
   Man erhält Nash-Gleichgewicht die gemischte Strategie:
 </div>

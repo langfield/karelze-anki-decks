@@ -37,4 +37,4 @@ Entwurfsraum ein.
   <b>Vergleich Architekturmuster und Stil:</b>
 </div>
 <div><img src=
-"paste-104adc15626085620b1e3810cfdbf7fcbcfe4072.jpg"></div>
+paste-104adc15626085620b1e3810cfdbf7fcbcfe4072.jpg></div>

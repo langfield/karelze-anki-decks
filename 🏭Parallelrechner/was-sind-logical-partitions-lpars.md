@@ -32,4 +32,4 @@ Was sind Logical Partitions (LPARs)?
   </ul>
 </div>
 <div><img src=
-"paste-3eec5600a893a6805a08ebd427bd8fb1342ffef1.jpg"></div>
+paste-3eec5600a893a6805a08ebd427bd8fb1342ffef1.jpg></div>

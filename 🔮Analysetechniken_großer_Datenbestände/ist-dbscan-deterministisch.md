@@ -16,4 +16,4 @@ deterministisch.
   werden und hängt ab, welches Cluster zuerst geprüft wird.
 </div>
 <div><img src=
-"paste-59de4cdc9aee9f66256068ddb6eef14c60633fbd.jpg"></div>
+paste-59de4cdc9aee9f66256068ddb6eef14c60633fbd.jpg></div>

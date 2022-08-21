@@ -19,4 +19,4 @@ Name four <b>key aspects</b> in <b>data science</b>.
   <b>Visualization</b> (similar to CRISPDM):
 </div>
 <div><img src=
-"paste-0364a0e37e12bf491ea282ff2ef488dca70e1ae5.jpg"></div>
+paste-0364a0e37e12bf491ea282ff2ef488dca70e1ae5.jpg></div>

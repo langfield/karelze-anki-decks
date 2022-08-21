@@ -19,4 +19,4 @@ Was sind typische <b>Eigenschaften</b> einer
   <b>Skizze</b>
 </div>
 <div><img src=
-"paste-57167d5de1c3133b71b8e1a40e30120114c5fd64.jpg"></div>
+paste-57167d5de1c3133b71b8e1a40e30120114c5fd64.jpg></div>

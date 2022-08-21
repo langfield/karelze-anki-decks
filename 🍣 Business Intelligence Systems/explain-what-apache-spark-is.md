@@ -18,4 +18,4 @@ a higher level abstraction than Hadoop.
   <b>Visualization</b>:
 </div>
 <div><img src=
-"paste-5080ad5316444fc54236b584583811446c5e1a7b.jpg"></div>
+paste-5080ad5316444fc54236b584583811446c5e1a7b.jpg></div>

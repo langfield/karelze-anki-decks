@@ -17,4 +17,4 @@ Name three types of data in <b>relational databases</b>.
   dates and times. One entry per transfer
 </ul>
 <div><img src=
-"paste-3f180fcf0018825a0fcec9727fb02fd948729537.jpg"></div>
+paste-3f180fcf0018825a0fcec9727fb02fd948729537.jpg></div>

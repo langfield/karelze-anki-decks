@@ -16,4 +16,4 @@ Modularity</b>?
   <b>Skizze:</b>
 </div>
 <div><img src=
-"paste-165997460cbae56d0d8f167da87734593bf305c0.jpg"></div>
+paste-165997460cbae56d0d8f167da87734593bf305c0.jpg></div>

@@ -11,7 +11,7 @@ Was ist sind die <b>zentralen Probleme</b> der
   Siehe nachfolgender Code:
 </div>
 <div><img src=
-"paste-7aacc20037c7e95eaa4011f94182bcd226a8490a.jpg"></div>
+paste-7aacc20037c7e95eaa4011f94182bcd226a8490a.jpg></div>
 
 ### Back
 <ul>

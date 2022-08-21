@@ -18,4 +18,4 @@ unterscheiden sich an immer genau einer Stelle.
   <b>Beispiel:</b>
 </div>
 <div><img src=
-"paste-4f672cb89c19a60ad089ae7452b3383e16c8cb90.jpg"></div>
+paste-4f672cb89c19a60ad089ae7452b3383e16c8cb90.jpg></div>

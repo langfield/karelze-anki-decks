@@ -40,7 +40,7 @@ Itemsets jeder Transaktion in einer Hash-Table geshasht werden.
   <b>Beispiel</b>:
 </div>
 <div><img src=
-"paste-971aea7bd5e0d9b67d3fab9c61dee0b5f1d14a8a.jpg"></div>
+paste-971aea7bd5e0d9b67d3fab9c61dee0b5f1d14a8a.jpg></div>
 <div>
   Man bestimmt Support für
   \(C_{1}=\{\{A\},\{B\},\{C\},\{D\},\{E\}\}\) durch Scan der DB.
@@ -51,4 +51,4 @@ Itemsets jeder Transaktion in einer Hash-Table geshasht werden.
   in Bucket.
 </div>
 <div><img src=
-"paste-88c16db223fe5ef433da9ea2837f8b07cba8ce65.jpg"></div>
+paste-88c16db223fe5ef433da9ea2837f8b07cba8ce65.jpg></div>

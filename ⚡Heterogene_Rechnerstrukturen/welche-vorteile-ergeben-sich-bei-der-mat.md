@@ -11,7 +11,7 @@ bei <b>Vektorprozessoren</b>?
   Siehe nachfolgender Code:
 </div>
 <div><img src=
-"paste-f91bf9a23b697bf2fdbab362843301f24cafefc2.jpg"></div>
+paste-f91bf9a23b697bf2fdbab362843301f24cafefc2.jpg></div>
 
 ### Back
 <ul>

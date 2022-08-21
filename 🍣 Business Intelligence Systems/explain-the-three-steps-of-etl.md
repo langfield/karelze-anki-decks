@@ -18,4 +18,4 @@ Explain the three steps of <b>ETL</b>.
   presentation.
 </ol>
 <div><img src=
-"paste-92026ac0f105400439bbe2e63f4219a45885bf07.jpg"></div>
+paste-92026ac0f105400439bbe2e63f4219a45885bf07.jpg></div>

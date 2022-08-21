@@ -18,4 +18,4 @@ Wie berechnen sich die <b>Dies per Wafer</b>?
   <b>Visualisierung:</b>
 </div>
 <div><img src=
-"paste-24e312b1d9605ee97435a7148a3bd12a30309369.jpg"></div>
+paste-24e312b1d9605ee97435a7148a3bd12a30309369.jpg></div>

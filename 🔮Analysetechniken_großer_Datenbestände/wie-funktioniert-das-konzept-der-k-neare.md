@@ -11,7 +11,7 @@ der zweitnächsten Nachbarn.
   Erklären Sie an folgendem <b>Beispiel</b>:
 </div>
 <div><img src=
-"paste-b2ff9b2032ee709598c51cfcfb02eedb7b344231.jpg"></div>
+paste-b2ff9b2032ee709598c51cfcfb02eedb7b344231.jpg></div>
 
 ### Back
 <img src="67911397.png"><div>

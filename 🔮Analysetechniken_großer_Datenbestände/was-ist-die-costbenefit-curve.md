@@ -16,7 +16,7 @@ Was ist die <b>Cost/Benefit Curve</b>?
   <b>Beispiel:</b>
 </div>
 <div><img src=
-"paste-1e281fe0651109997ad9a55af17fff2aaee959cb.jpg"></div>
+paste-1e281fe0651109997ad9a55af17fff2aaee959cb.jpg></div>
 <div>
   (links Lift, rechts Cost/Benefit-Kurve bei hypothetischen Kosten)
 </div>

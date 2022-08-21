@@ -20,4 +20,4 @@ Give the <b>definition</b> for <b>Sigmoid function.</b>
   <b>Visualization</b>
 </div>
 <div><img src=
-"paste-6ae0faa890d3244b468136e37f73a6e39633ea1f.jpg"></div>
+paste-6ae0faa890d3244b468136e37f73a6e39633ea1f.jpg></div>

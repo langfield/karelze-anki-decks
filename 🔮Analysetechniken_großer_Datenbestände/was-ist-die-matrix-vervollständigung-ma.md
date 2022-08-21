@@ -8,7 +8,7 @@ markdown: false
 Was ist die <b>Matrix-Vervollständigung</b> (<i>matrix
 completion</i>)?
 <div><img src=
-"paste-711bdf415b9921def48f11cebb24b672547d39d6.jpg"></div>
+paste-711bdf415b9921def48f11cebb24b672547d39d6.jpg></div>
 
 ### Back
 <ul>

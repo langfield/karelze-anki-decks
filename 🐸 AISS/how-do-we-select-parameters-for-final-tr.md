@@ -27,4 +27,4 @@ How do we select <b>parameters</b> for <b>final training</b>?
   <li>All ground truth data is used to train the final model
 </ul>
 <div><img src=
-"paste-9ff13e45ac57a14608f98e9517815c3c6b16598b.jpg"></div>
+paste-9ff13e45ac57a14608f98e9517815c3c6b16598b.jpg></div>

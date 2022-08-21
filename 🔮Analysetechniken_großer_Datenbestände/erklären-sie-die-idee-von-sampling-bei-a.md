@@ -29,4 +29,4 @@ Gesamtdatenbestands aus.
   Mindestsupport berücksichtigt.
 </div>
 <div><img src=
-"paste-fd9608e7c620ffe2a5c659b0bb28cefec035d39d.jpg"></div>
+paste-fd9608e7c620ffe2a5c659b0bb28cefec035d39d.jpg></div>

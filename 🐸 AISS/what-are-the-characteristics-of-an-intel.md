@@ -16,4 +16,4 @@ What are the <b>characteristics</b> of an <b>intelligent agent</b>?
   relationship
 </ul>
 <div><img src=
-"paste-4f2ba22b12aa18090acf7cedea5f550d159c8145.jpg"></div>
+paste-4f2ba22b12aa18090acf7cedea5f550d159c8145.jpg></div>

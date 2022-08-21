@@ -26,4 +26,4 @@ inputs</b>.
   </div>
 </div>
 <div><img src=
-"paste-286f949d95015c4f04bbf4ee1a4c7ef733d0b3ff.jpg"></div>
+paste-286f949d95015c4f04bbf4ee1a4c7ef733d0b3ff.jpg></div>

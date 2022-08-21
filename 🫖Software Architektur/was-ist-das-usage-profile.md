@@ -11,4 +11,4 @@ Was ist das <b>usage profile</b>?
 Beschreibung des Nutzerverhaltens in Form von
 <b>Parameterwerten</b> und <b>Inputdaten</b>.
 <div><img src=
-"paste-5ae52579e91c9ca5d5581be319cb28ba8d205782.jpg"></div>
+paste-5ae52579e91c9ca5d5581be319cb28ba8d205782.jpg></div>

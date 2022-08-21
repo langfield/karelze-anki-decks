@@ -10,7 +10,7 @@ Compare Ridge Regression to Lasso visually for the parameters \(\beta_{1}\) and 
 ### Back
 <b>LASSO</b>
 <div><img src=
-"paste-7386e411d647e6c222733dada1af3b45c0649c5c.jpg"></div>
+paste-7386e411d647e6c222733dada1af3b45c0649c5c.jpg></div>
 <div>
   <b>Ridge-Regression</b>
   <div><img src=

@@ -16,4 +16,4 @@ Rechtecke, die alle darunter im Teilbaum befindlichen Datenobjekte
 einschließen. <i>Minimum bound rectangles</i> können sich
 überlappen.
 <div><img src=
-"paste-2690c8eb47dcdf44502a097ae597fadef3b30c06.jpg"></div>
+paste-2690c8eb47dcdf44502a097ae597fadef3b30c06.jpg></div>

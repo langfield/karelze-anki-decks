@@ -39,7 +39,7 @@ Datenbank zu berechnen?
   roten Distanz (maximale Distanz).
 </div>
 <div><img src=
-"paste-88d33adae747b65d5d210e8cb56d2ddb07c6afc7.jpg"></div>
+paste-88d33adae747b65d5d210e8cb56d2ddb07c6afc7.jpg></div>
 <div>
   <b>LOF für alle Punkte eines Knotens:</b>
 </div>
@@ -57,4 +57,4 @@ Datenbank zu berechnen?
   <b>Visualisierung:</b>
 </div>
 <div><img src=
-"paste-d0f85e1a79025e569525cdfbcd2734ddbc33b437.jpg"></div>
+paste-d0f85e1a79025e569525cdfbcd2734ddbc33b437.jpg></div>

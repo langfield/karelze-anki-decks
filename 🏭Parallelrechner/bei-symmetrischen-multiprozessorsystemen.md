@@ -16,7 +16,7 @@ Zusammenhang unter dem <b>Cash-Kohärenz-Problem</b>?
 Replikate in den Caches verschiedener Prozessoren in einem SMP
 müssen aktualisiert und kohärent gehalten werden.
 <div><img src=
-"paste-73c16a682eea5f7d19319e4eb1c1883851ff1632.jpg"></div>
+paste-73c16a682eea5f7d19319e4eb1c1883851ff1632.jpg></div>
 <div>
   <b>Definition:</b>
 </div>

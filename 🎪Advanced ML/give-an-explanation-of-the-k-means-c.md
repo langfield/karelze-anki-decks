@@ -22,4 +22,4 @@ Give an explanation of the \(k\)-means clustering algorithm.
     </ul>
 </ol>
 <div><img src=
-"paste-77ba72cec8f7f502e3e62fb64180d52190fe871c.jpg"></div>
+paste-77ba72cec8f7f502e3e62fb64180d52190fe871c.jpg></div>

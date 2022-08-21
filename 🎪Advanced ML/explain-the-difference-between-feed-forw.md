@@ -19,4 +19,4 @@ the nodes in next layer.
   <b>Visualization:</b>
 </div>
 <div><img src=
-"paste-d4358e0a8b99cde470a1ae8717d7cc9453c53a3d.jpg"></div>
+paste-d4358e0a8b99cde470a1ae8717d7cc9453c53a3d.jpg></div>

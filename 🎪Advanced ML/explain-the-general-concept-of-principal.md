@@ -26,7 +26,7 @@ Explain the general concept of Principal Component Analysis.
   <b>Visualization:</b>
 </div>
 <div><img src=
-"paste-85be5b90109135d58d182111d7a9a53f3f0adc41.jpg"></div>
+paste-85be5b90109135d58d182111d7a9a53f3f0adc41.jpg></div>
 <div>
   First principal component direction in green and second in blue
   dashed line.

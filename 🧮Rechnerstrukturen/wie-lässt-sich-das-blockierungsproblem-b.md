@@ -11,4 +11,4 @@ Wie lässt sich das Blockierungsproblem bei Baumstrukturen lösen?
 Mit Fat Trees d. h. Bäumen mit höher Anzahl an
 Kommunikationskanälen je näher man an der Wurzel ist.
 <div><img src=
-"paste-9f216c19ddec1eb7b3b6cdb80aa888746e5bf9ec.jpg"></div>
+paste-9f216c19ddec1eb7b3b6cdb80aa888746e5bf9ec.jpg></div>

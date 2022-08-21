@@ -14,4 +14,4 @@ How is data organized in a <b>fact table</b>?
   Each cell of the cube is a row.
 </div>
 <div><img src=
-"paste-44646070d158bbf14bebb7d3d97e8e5dd6c83d77.jpg"></div>
+paste-44646070d158bbf14bebb7d3d97e8e5dd6c83d77.jpg></div>

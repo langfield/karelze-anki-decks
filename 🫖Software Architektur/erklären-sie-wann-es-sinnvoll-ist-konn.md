@@ -11,7 +11,7 @@ auszumodellieren?
   <b>Beispiel ABB</b>:
 </div>
 <div><img src=
-"paste-61adc4be490b4a53c9d438c4c286ee2502d6a1da.jpg"></div>
+paste-61adc4be490b4a53c9d438c4c286ee2502d6a1da.jpg></div>
 
 ### Rückseite
 <div>Steckt in Konnektor komplexe Logik z. B. Fileparser, dann sollte Konnektor als Komponente modelliert werden.

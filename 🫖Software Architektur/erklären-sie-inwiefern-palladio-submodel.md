@@ -9,7 +9,7 @@ Erklären Sie inwiefern Palladio Submodelle mehr Kontext binden? Wann im Softwar
 
 ### Back
 <div><img src=
-"paste-f6e5131034944a704c4ff94070401ed7e44c09f0.jpg"></div>Component
+paste-f6e5131034944a704c4ff94070401ed7e44c09f0.jpg></div>Component
 type can complete type (alle Schnittstellen) oder provided type
 (angebotene Schnittstellen) sein.
 <div>

@@ -16,4 +16,4 @@ a data warehouse.
   a strategic business unit or a department.
 </div>
 <div><img src=
-"paste-0a14c6a55db9009ea169a42b6d540300701cf3ed.jpg"></div>
+paste-0a14c6a55db9009ea169a42b6d540300701cf3ed.jpg></div>

@@ -12,4 +12,4 @@ Erklären Sie <b>First-Come-First-Served Scheduling</b>
   Anfragen werden in der Reihenfolge abgearbeitet wie sie ankommen.
 </div>
 <div><img src=
-"paste-5b57e45326f8c96c2a63c09c8bc2e1c53479aecb.jpg"></div>
+paste-5b57e45326f8c96c2a63c09c8bc2e1c53479aecb.jpg></div>

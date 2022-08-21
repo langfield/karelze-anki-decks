@@ -17,4 +17,4 @@ Wie arbeiten User-Level Simulatoren?
   </div>
 </div>
 <div><img src=
-"paste-8c54a9b418a9189e24cfc7b0371e41d1f4e735ef.jpg"></div>
+paste-8c54a9b418a9189e24cfc7b0371e41d1f4e735ef.jpg></div>

@@ -22,7 +22,7 @@ Outlier</b> in irgendeinem \(B \subset \mathcal{A}_{P}\) existiert.
   <b>Beispiel</b>:
 </div>
 <div><img src=
-"paste-0be43e0ddbb18e2974d25918a48ef692708399fd.jpg"></div>
+paste-0be43e0ddbb18e2974d25918a48ef692708399fd.jpg></div>
 <div>
   Mario Lemieux ist <b>strong outlier</b> im 2-D Raum der
   short-handed goals und game-winning goals. Denn es gibt keine

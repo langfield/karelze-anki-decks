@@ -22,7 +22,7 @@ Top-\(n\) Punkte sind per Definition Outlier.
   <b>Visualisierung:</b>
 </div>
 <div><img src=
-"paste-0ce7dc6df3060232ad833e183f4c81045b2f8145.jpg"></div>
+paste-0ce7dc6df3060232ad833e183f4c81045b2f8145.jpg></div>
 <div>
   \(k\) sollte \(k > 1\) sein z. B. 5 oder 10 (je nach
   Beschaffenheit des Datenbestands) zwecks Robustheit.

@@ -19,4 +19,4 @@ Zufallsvariablen.
   Visualisierung für <b>multivariate Normalverteilung</b>.
 </div>
 <div><img src=
-"paste-34af2e65b314970c956e0c5515632fabfb1b782a.jpg"></div>
+paste-34af2e65b314970c956e0c5515632fabfb1b782a.jpg></div>

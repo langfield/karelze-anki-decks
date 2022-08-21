@@ -11,4 +11,4 @@ Explain <b>Post-Pruning</b> by <b>Subtree Replacement</b>.
 <b>Subtree replacement</b> selects a subtree and replaces it with a
 single leaf.
 <div><img src=
-"paste-d04853ebfba39b3936da8838ff763044a8a79a26.jpg"></div>
+paste-d04853ebfba39b3936da8838ff763044a8a79a26.jpg></div>

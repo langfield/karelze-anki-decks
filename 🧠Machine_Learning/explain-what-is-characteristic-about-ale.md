@@ -19,4 +19,4 @@ CONV4 : 384 3x3 filters at stride 1, pad 1 [13x13x256] CONV5 : 256
 stride 2 [4096] FC6 : 4096 neurons [4096] FC7 : 4096 neurons [1000]
 FC8 : 1000 neurons (class scores)
 <div><img src=
-"paste-01d904854611ff65e1ec4aa224c552e774baaf73.jpg"></div>
+paste-01d904854611ff65e1ec4aa224c552e774baaf73.jpg></div>

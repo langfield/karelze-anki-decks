@@ -26,4 +26,4 @@ ihrer Repräsentation.
   <b>Visualisierung:</b>
 </div>
 <div><img src=
-"paste-b7f61cadd457e68e80a41114308d3b79742f761e.jpg"></div>
+paste-b7f61cadd457e68e80a41114308d3b79742f761e.jpg></div>

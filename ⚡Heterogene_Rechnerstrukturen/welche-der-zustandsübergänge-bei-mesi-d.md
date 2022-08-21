@@ -8,7 +8,7 @@ markdown: false
 Welche der <b>Zustandsübergänge</b> bei <b>MESI</b>, die besprochen
 wurden, lassen sich auf dem <b>Bus</b> beobachten?
 <div><img src=
-"paste-79b1ba9235f37a489acb228eb024b7930500631b.jpg"></div>
+paste-79b1ba9235f37a489acb228eb024b7930500631b.jpg></div>
 
 ### Back
 <img src="73170591.png">

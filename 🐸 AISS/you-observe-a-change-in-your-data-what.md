@@ -16,4 +16,4 @@ detection</b> can be differentiated?
   completely retrained from scratch.
 </ul>
 <div><img src=
-"paste-62171fe951ede91fd81ae7ddce27759a0cc08799.jpg"></div>
+paste-62171fe951ede91fd81ae7ddce27759a0cc08799.jpg></div>

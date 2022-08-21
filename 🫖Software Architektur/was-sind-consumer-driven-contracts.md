@@ -19,4 +19,4 @@ Konsumenten, benötigten Informationen.
   Contracts: Daten-Schema, Service-Interfaces, Policies,...
 </div>
 <div><img src=
-"paste-9014eea3638edf1749818ed98543ea125761c6e9.jpg"></div>
+paste-9014eea3638edf1749818ed98543ea125761c6e9.jpg></div>

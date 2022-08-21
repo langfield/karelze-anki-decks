@@ -17,4 +17,4 @@ Name 3 data science life cycles discussed in class.
   <b>Comparison:</b>
 </div>
 <div><img src=
-"paste-bb8f1ee39ecf283e385d98c46301acd58fda43cc.jpg"></div>
+paste-bb8f1ee39ecf283e385d98c46301acd58fda43cc.jpg></div>

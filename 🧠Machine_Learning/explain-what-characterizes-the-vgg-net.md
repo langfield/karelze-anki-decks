@@ -18,4 +18,4 @@ Explain what characterizes the <b>VGG Net</b>.
   </div>
 </div>
 <div><img src=
-"paste-c399ce6fe7b5c7a6a71cc35807bc955872ac6908.jpg"></div>
+paste-c399ce6fe7b5c7a6a71cc35807bc955872ac6908.jpg></div>

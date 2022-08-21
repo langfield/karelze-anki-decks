@@ -29,4 +29,4 @@ Wie ist ein <b>polynomial kernel</b> definiert?
   \]
 </div>
 <div><img src=
-"paste-0794fed3b91b29540d61d65276d9b20b14458a0b.jpg"></div>
+paste-0794fed3b91b29540d61d65276d9b20b14458a0b.jpg></div>

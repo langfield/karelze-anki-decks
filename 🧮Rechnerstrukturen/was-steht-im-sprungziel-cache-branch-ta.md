@@ -13,4 +13,4 @@ Ist eine Tabelle, die die Adresse der Verzweigung und das
 entsprechende Sprungziel speichert. Zur Verweigung wird dann
 Sprungzieladresse geholt.
 <div><img src=
-"paste-96254b5002983a6a3c0bb3d522825f8ef14daaa7.jpg"></div>
+paste-96254b5002983a6a3c0bb3d522825f8ef14daaa7.jpg></div>

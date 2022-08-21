@@ -16,11 +16,11 @@ architecture</b>?
   Domänen</strong>.
 </ul>
 <div><img src=
-"paste-4ef0ab7cfa09d2cbe3127b45f17d03abec61a1d3.jpg"></div>
+paste-4ef0ab7cfa09d2cbe3127b45f17d03abec61a1d3.jpg></div>
 <p><strong>Microservice architecture:</strong>
 <ul>
   <li>Dekomposition anhand von <strong>funktionalen
   Einheiten</strong>.
 </ul>
 <div><img src=
-"paste-9c766bac6207f66f93e53177b8c0bebfc19fc21d.jpg"></div>
+paste-9c766bac6207f66f93e53177b8c0bebfc19fc21d.jpg></div>

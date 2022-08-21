@@ -22,7 +22,7 @@ markdown: false
   <li>Schwieriger zu optimieren
 </ul>
 <div><img src=
-"paste-270aa5690d9324d79fc0cc4a0355bfa77404bdac.jpg"></div>
+paste-270aa5690d9324d79fc0cc4a0355bfa77404bdac.jpg></div>
 <p>\(\ell_2\) <b>penalty (Ridge):</b>
 <p>
 \(\operatorname{penalty}(\boldsymbol{\theta})=\|\boldsymbol{\theta}\|_{2}=\sum_{d}

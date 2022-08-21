@@ -14,7 +14,7 @@ training during the <b>model evaluation phase</b>?
 </div>(Iterative) model training and testing to estimate future
 performance e. g., approximations of overfitting tendencies.
 <div><img src=
-"paste-203ccb14569d1b3981f0f3319fdb0f429d294bcf.jpg"></div>
+paste-203ccb14569d1b3981f0f3319fdb0f429d294bcf.jpg></div>
 <div>
   <b>final training:</b>
 </div>
@@ -23,4 +23,4 @@ performance e. g., approximations of overfitting tendencies.
   knowledge) for integration into a productive environment.
 </div>
 <div><img src=
-"paste-1310b581880445fb68ef47631b51f8753e4e74fe.jpg"></div>
+paste-1310b581880445fb68ef47631b51f8753e4e74fe.jpg></div>

@@ -28,4 +28,4 @@ aufgebauten Funktionseinheit zur <b>Verarbeitung von Arrays
   <b>Skizze:</b>
 </div>
 <div><img src=
-"paste-4dece6315cf9a068130adaddb74b7e417cb36a0a.jpg"></div>
+paste-4dece6315cf9a068130adaddb74b7e417cb36a0a.jpg></div>

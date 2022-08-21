@@ -17,4 +17,4 @@ mindestens minPts andere Objekte in Kugel um Objekt mit Radius
   Clusters" / gelbes Objekt)
 </div>
 <div><img src=
-"paste-8edc1cb88c08f8a80ca04251d63b0364893c2990.jpg"></div>
+paste-8edc1cb88c08f8a80ca04251d63b0364893c2990.jpg></div>

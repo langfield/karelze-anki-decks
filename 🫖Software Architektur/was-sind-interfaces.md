@@ -25,7 +25,7 @@ Was sind Interfaces?
   <b>Skizze:</b>
 </div>
 <div><img src=
-"paste-d5c97f44c0a4ef27fcc9798acd843a3342ab94a5.jpg"></div>
+paste-d5c97f44c0a4ef27fcc9798acd843a3342ab94a5.jpg></div>
 <div>
   Mitte: <b>Provides</b>-Schnittstelle (Angebots-Schnittstelle)
 </div>

@@ -24,4 +24,4 @@ des Programms.
   Nach Ausführen eines Sprungs wird Sprung verifiziert.
 </div>
 <div><img src=
-"paste-8c616e39ba68ecda1ddf3a8705b13bc00b982d9a.jpg"></div>
+paste-8c616e39ba68ecda1ddf3a8705b13bc00b982d9a.jpg></div>

@@ -18,7 +18,7 @@ functionalities, inputs, outputs and underlying types.
   <b>Example:</b>
 </div>
 <div><img src=
-"paste-df432f668e58e2c3956342d36111e940db03ff12.jpg"></div>
+paste-df432f668e58e2c3956342d36111e940db03ff12.jpg></div>
 <div>
   Google Cloud Vision API, Quandl API...
 </div>

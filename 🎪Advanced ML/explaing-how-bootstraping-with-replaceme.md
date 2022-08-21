@@ -22,4 +22,4 @@ the original dataset with replacement.
   Sketch:
 </div>
 <div><img src=
-"paste-38081f5f34b6fa6a7d5522a6fa5a9eaba976f86b.jpg"></div>
+paste-38081f5f34b6fa6a7d5522a6fa5a9eaba976f86b.jpg></div>

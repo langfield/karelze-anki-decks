@@ -18,4 +18,4 @@ Distanzbestimmung.
   <b>Illustration:</b>
 </div>
 <div><img src=
-"paste-c5ce6ff3b3e62b28f427f38816184ccdf15efd18.jpg"></div>
+paste-c5ce6ff3b3e62b28f427f38816184ccdf15efd18.jpg></div>

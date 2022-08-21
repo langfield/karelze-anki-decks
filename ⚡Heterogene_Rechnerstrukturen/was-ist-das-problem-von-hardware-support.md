@@ -22,7 +22,7 @@ bei <b>Message Passing</b>?
   in Benutzerbereich kopieren kann. (3) (4)
 </ol>
 <div><img src=
-"paste-18aa6f54a38b5989d4adc437f4fc91cfc9531973.jpg"></div>
+paste-18aa6f54a38b5989d4adc437f4fc91cfc9531973.jpg></div>
 <div>
   Die DMA (direct memory access) engine kann die Daten von der
   Netzwerkschnittstelle zum Benutzerbereich kopieren (blaue, dicke

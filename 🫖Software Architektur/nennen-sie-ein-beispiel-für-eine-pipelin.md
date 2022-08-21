@@ -10,4 +10,4 @@ Nennen Sie ein Beispiel für eine Pipeline-Architektur
 ### Back
 Geräuschunterdrückung bei Streamingdienst.
 <div><img src=
-"paste-8d61103a80577a9c6ca240d0df8994a48777f5a2.jpg"></div>
+paste-8d61103a80577a9c6ca240d0df8994a48777f5a2.jpg></div>

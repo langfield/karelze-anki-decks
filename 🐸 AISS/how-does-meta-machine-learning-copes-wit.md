@@ -22,4 +22,4 @@ drastically reduce the rquired amount of transferred data.
 <b>Data heterogenity:</b> Heterogenous data sources can be
 processed flexibly by using different classifiers for each data
 source. <img src=
-"paste-5e8d6a89ef32d5afe37122cbc15a8d012ec0389f.jpg">
+paste-5e8d6a89ef32d5afe37122cbc15a8d012ec0389f.jpg>

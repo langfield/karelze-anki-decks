@@ -17,4 +17,4 @@ For example, we have the following time series:
   supervised learning problem:
 </div>
 <div><img src=
-"paste-db1b37d3a246286095b7fccfad4756c0d0036f11.jpg"></div>
+paste-db1b37d3a246286095b7fccfad4756c0d0036f11.jpg></div>

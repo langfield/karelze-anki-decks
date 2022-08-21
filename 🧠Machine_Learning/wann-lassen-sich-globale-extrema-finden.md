@@ -14,4 +14,4 @@ markdown: false
   <li>Nicht-Konvexe Funktion → Lokale Extrema
 </ul>
 <div><img src=
-"paste-4ae50fc23f62c713b16a5ccb3f0cafa27c17441d.jpg"></div>
+paste-4ae50fc23f62c713b16a5ccb3f0cafa27c17441d.jpg></div>

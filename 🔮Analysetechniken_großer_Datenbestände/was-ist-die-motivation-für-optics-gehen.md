@@ -28,4 +28,4 @@ Was ist die <b>Motivation </b>für <b>OPTICS</b>? Gehen Sie auf Unterschiede zu 
   Clusterings ergeben sich indem man Horizontale in Diagramm legt.
 </div>
 <div><img src=
-"paste-13903cc0355b7cc71d033ab9dae5d61e27470ca5.jpg"></div>
+paste-13903cc0355b7cc71d033ab9dae5d61e27470ca5.jpg></div>

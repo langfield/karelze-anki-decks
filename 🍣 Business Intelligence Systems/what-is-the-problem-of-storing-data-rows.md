@@ -13,7 +13,7 @@ What is the problem of storing <b>data rows</b> sequentially in <b>memory</b>?<d
 This type of organization performs well for the manipulation of a
 single data set (i. e. row)
 <div><img src=
-"paste-b4edc3c722e02bb37911babd11d5a67973b01740.jpg"></div>
+paste-b4edc3c722e02bb37911babd11d5a67973b01740.jpg></div>
 <div>
   It performs poorly when data is accessed in the same colums (e.
   g. summization), as many pointer movements in memory are

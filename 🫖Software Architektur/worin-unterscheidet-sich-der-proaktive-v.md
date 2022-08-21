@@ -10,11 +10,11 @@ Worin unterscheidet sich der proaktive vom reaktiven Entwicklungsansatz bei Soft
 ### Back
 <img src="paste-f7466006a2f2fac4a578d2fb5cb951955aea9d37.jpg">
 <div><img src=
-"paste-051c24cc657f7f004eb85e9f6c7e190ad54322fa.jpg"></div>
+paste-051c24cc657f7f004eb85e9f6c7e190ad54322fa.jpg></div>
 <div><img src=
-"paste-788ad29476ae4e3189a73852d9a683e22506c127.jpg"></div>
+paste-788ad29476ae4e3189a73852d9a683e22506c127.jpg></div>
 <div><img src=
-"paste-95877afee0e0e3cae75ae58cfc5294dafa653f6b.jpg"></div>
+paste-95877afee0e0e3cae75ae58cfc5294dafa653f6b.jpg></div>
 <div>
   Beim Pro-Aktiven überlegt man sich pro-aktiv für gesamte Domäne,
   was ist Kern und was sind Variationspunkte.

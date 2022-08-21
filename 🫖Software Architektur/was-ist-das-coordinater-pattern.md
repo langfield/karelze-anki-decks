@@ -21,4 +21,4 @@ Muster zum Implementieren von Composite Components / Assemblies.
   zugrundeliegenden Unterkomponenten.
 </div>
 <div><img src=
-"paste-80d3411fb406794922fb938f63ae650baf1836c0.jpg"></div>
+paste-80d3411fb406794922fb938f63ae650baf1836c0.jpg></div>

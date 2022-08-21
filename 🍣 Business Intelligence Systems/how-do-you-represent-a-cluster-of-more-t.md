@@ -19,4 +19,4 @@ centroid = average of its points.
   Centroid \(c_q\): "middle" of the cluster \(C_q\)
 </div>
 <div><img src=
-"paste-a4690e7456cb853fb4b0dbe0d1574eecea23d0c4.jpg"></div>
+paste-a4690e7456cb853fb4b0dbe0d1574eecea23d0c4.jpg></div>

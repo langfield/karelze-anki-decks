@@ -14,16 +14,16 @@ What are the causes of the following loss curves during training a neural net?<d
 
 ### Back
 <div><img src=
-"paste-a8504c5f8f92e40fb4c84c8c02d1ce0584b95769.jpg"></div>Initialization
+paste-a8504c5f8f92e40fb4c84c8c02d1ce0584b95769.jpg></div>Initialization
 is poor.
 <div><img src=
-"paste-dff10d7cc1878d3387d5b43c2dfd465f6f6f93df.jpg"></div>
+paste-dff10d7cc1878d3387d5b43c2dfd465f6f6f93df.jpg></div>
 <div>
   If loss is plateuing, learning rate is to high or should be
   changed.
 </div>
 <div><img src=
-"paste-6469b5aec1cc4804472264da56e4d27baf9d616e.jpg"></div>
+paste-6469b5aec1cc4804472264da56e4d27baf9d616e.jpg></div>
 <div>
   Higher learning rate should be kept and later decayed.
 </div>

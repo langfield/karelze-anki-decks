@@ -9,7 +9,7 @@ Give examples for the sudden changes, slow changes, gradual changes, reoccuring 
 
 ### Back
 <div><img src=
-"paste-c97e153b7544fc55a93c7bfac499980245b6d35f.jpg"></div><b>Sudden
+paste-c97e153b7544fc55a93c7bfac499980245b6d35f.jpg></div><b>Sudden
 changes:</b> Exchange of a sensor in IOT setting
 <div>
   <b>Slow changes:</b> Sensor that is slowly degrading, become less

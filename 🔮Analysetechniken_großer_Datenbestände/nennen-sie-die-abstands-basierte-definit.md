@@ -25,4 +25,4 @@ Prozent der Objekte in \(T\) größer ist als \(D\).
   <b>Visualisierung:</b>
 </div>
 <div><img src=
-"paste-6c51b5c14b0a6dbd37b933ab47de48cdb0b4593b.jpg"></div>
+paste-6c51b5c14b0a6dbd37b933ab47de48cdb0b4593b.jpg></div>

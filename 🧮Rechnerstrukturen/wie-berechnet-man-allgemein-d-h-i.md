@@ -20,4 +20,4 @@ werden.
   \Rightarrow\left(a_{1}-1\right) \bmod 3=0\)
 </div>
 <div><img src=
-"paste-f68d87a24cc6233feb3f3badcb17d96c31e98fff.jpg"></div>
+paste-f68d87a24cc6233feb3f3badcb17d96c31e98fff.jpg></div>

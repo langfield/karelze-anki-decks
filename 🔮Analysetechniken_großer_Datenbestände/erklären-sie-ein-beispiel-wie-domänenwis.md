@@ -15,4 +15,4 @@ besteht oder Anzahl der Umzüge und Jobwechsel korrelieren,
 allerdings kein Zusammenhang zwischen Alter und einem bestimmten
 Job besteht.
 <div><img src=
-"paste-b0de9a1ccad89977d0d1fccc8f275fd1c253e3de.jpg"></div>
+paste-b0de9a1ccad89977d0d1fccc8f275fd1c253e3de.jpg></div>

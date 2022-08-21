@@ -19,4 +19,4 @@ Was sind die Grundelemente eines OpenMP-Programms?
   einmalig von unterschiedlichen Threads abgearbeitet)
 </ul>
 <div><img src=
-"paste-64cda3c526aa717cb95e43066035e1733a1a762e.jpg"></div>
+paste-64cda3c526aa717cb95e43066035e1733a1a762e.jpg></div>

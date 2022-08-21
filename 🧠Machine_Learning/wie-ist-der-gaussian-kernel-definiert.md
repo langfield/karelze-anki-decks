@@ -16,4 +16,4 @@ ist.
   Visualisierung verschiedener \(\sigma\):
 </div>
 <div><img src=
-"paste-f06366296c0279ade3fd9fc59d4ad9a419d17c28.jpg"></div>
+paste-f06366296c0279ade3fd9fc59d4ad9a419d17c28.jpg></div>

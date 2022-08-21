@@ -28,4 +28,4 @@ Was ist das <i>Assembly</i>?
   assembly contexts.
 </div>
 <div><img src=
-"paste-43666f2e608978314aa04973d618fb71f434bca9.jpg"></div>
+paste-43666f2e608978314aa04973d618fb71f434bca9.jpg></div>

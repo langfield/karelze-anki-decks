@@ -23,4 +23,4 @@ business activities are based on.
   <b>Visualization</b>:
 </div>
 <div><img src=
-"paste-85f926efe684e2abe2d4bdcf517dcb0b44452ba8.jpg"></div>
+paste-85f926efe684e2abe2d4bdcf517dcb0b44452ba8.jpg></div>

@@ -14,4 +14,4 @@ Nennen Sie drei <b>Leistungsfähigkeitsindikatoren</b>
   <li>Konsum (Güterbrauch)
 </ul>
 <div><img src=
-"paste-83c9b9b6488bd2d9d7397acab4ab479c0d254ffc.jpg"></div>
+paste-83c9b9b6488bd2d9d7397acab4ab479c0d254ffc.jpg></div>

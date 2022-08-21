@@ -14,7 +14,7 @@ Vorkostens in Kauf zu nehmen.
   <b>Beispiel:</b>
 </div>
 <div><img src=
-"paste-dfb789c8064065407d0790655186e540f10f4c9c.jpg"></div>
+paste-dfb789c8064065407d0790655186e540f10f4c9c.jpg></div>
 <div>
   Die Zahlung wäre hier zwischen 6 und 10, weil Gewinn von B (20
   GE) gleichmäßig geteilt wird. Gleichzeitig muss A mindestens so

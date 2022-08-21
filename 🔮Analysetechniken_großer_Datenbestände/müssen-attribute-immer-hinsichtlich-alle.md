@@ -9,7 +9,7 @@ Müssen Attribute immer hinsichtlich <b>allen Dimensionen</b> ein
 <b>Outlier</b> sein? Erklären Sie dies anhand dem nachfolgenden
 Beispiel.
 <div><img src=
-"paste-0be43e0ddbb18e2974d25918a48ef692708399fd.jpg"></div>
+paste-0be43e0ddbb18e2974d25918a48ef692708399fd.jpg></div>
 
 ### Back
 Nein.

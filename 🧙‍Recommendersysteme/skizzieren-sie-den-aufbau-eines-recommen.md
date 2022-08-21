@@ -12,9 +12,9 @@ Skizzieren Sie den Aufbau eines Recommenderdiensts für Legacy-Bibliothekssystem
   <b>Sequenzdiagramm</b>:
 </div>
 <div><img src=
-"Untitled-e76330ca94b6b4d78ca1bda9dd9051bab2a37238.png"></div>
+Untitled-e76330ca94b6b4d78ca1bda9dd9051bab2a37238.png></div>
 <div>
   <b>Kommunikationsdiagramm:</b>
 </div>
 <div><img src=
-"Untitled-ca7a3bd05390b200b8aecb123b5bdde1665e5136.png"></div>
+Untitled-ca7a3bd05390b200b8aecb123b5bdde1665e5136.png></div>

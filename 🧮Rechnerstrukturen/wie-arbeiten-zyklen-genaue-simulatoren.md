@@ -19,4 +19,4 @@ Wie arbeiten Zyklen genaue Simulatoren?
   </div>
 </div>
 <div><img src=
-"paste-08fc8850c14331b8a4080ae46a8a2e1dec08b63d.jpg"></div>
+paste-08fc8850c14331b8a4080ae46a8a2e1dec08b63d.jpg></div>

@@ -31,4 +31,4 @@ Compare how <b>LASSO</b> is different from <b>Ridge Regression</b>.
   </div>
 </div>
 <div><img src=
-"paste-a2c4b2af878519e9d017137ce07ec7c700b0fba4.jpg"></div>
+paste-a2c4b2af878519e9d017137ce07ec7c700b0fba4.jpg></div>

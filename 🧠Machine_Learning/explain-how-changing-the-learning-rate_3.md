@@ -17,4 +17,4 @@ Explain how changing the learning rate \(\eta\) using <b>Inverse sqrt</b> works.
   of epochs.
 </div>
 <div><img src=
-"paste-f067be98ce82c7721b9ede76260c52388ff5515e.jpg"></div>
+paste-f067be98ce82c7721b9ede76260c52388ff5515e.jpg></div>

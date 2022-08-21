@@ -22,7 +22,7 @@ Erklären Sie den <b>Use Case</b> bei IBM von <b>Palladio</b>.
   <b>Vorgehen</b>:
 </div>
 <div><img src=
-"paste-5b1698a19bce2ccff61866b0d305ae99fa3170d8.jpg"></div>
+paste-5b1698a19bce2ccff61866b0d305ae99fa3170d8.jpg></div>
 <div>
   Man hat synchrones und asynchrones Modell verglichen. Als Input
   dienten Architekturdaten.

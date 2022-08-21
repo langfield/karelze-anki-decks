@@ -19,4 +19,4 @@ Was versteht man unter <b>Smart Endpoints and Dumb Pipes</b> bei
   <li>Keine komplexe Kommunikations-Infrastruktur wie Bus.
 </ul>
 <div><img src=
-"paste-c436568d1ce4093e07d08518dc48de7cf34f03c8.jpg"></div>
+paste-c436568d1ce4093e07d08518dc48de7cf34f03c8.jpg></div>

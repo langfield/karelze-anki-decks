@@ -11,4 +11,4 @@ Skizzieren Sie den Pseudocode um einen Teilgraph für einen Suchstring \(\nu\) z
 ### Back
 <img src="paste-3ff09b5ea28aef04ca74131bc6d5c392393b5c99.jpg">
 <div><img src=
-"paste-ec7776ecd497c35cc3679b3dda39a3402123db2a.jpg"></div>
+paste-ec7776ecd497c35cc3679b3dda39a3402123db2a.jpg></div>

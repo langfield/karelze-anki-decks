@@ -21,7 +21,7 @@ Wie lässt sich aus dem CF-Tree das Clustering ermitteln?
   Qualität z. B. weil Cluster zu groß für T siehe Skizze:
 </div>
 <div><img src=
-"paste-c90f2ed8802a4d151ad4dd2b4c8715bd87f9641f.png"></div>
+paste-c90f2ed8802a4d151ad4dd2b4c8715bd87f9641f.png></div>
 <div>
   Cluster gehören aber eigentlich zusammen und finden sich an
   unterschiedlichen Stellen im Baum wieder. Man hat dann Probleme

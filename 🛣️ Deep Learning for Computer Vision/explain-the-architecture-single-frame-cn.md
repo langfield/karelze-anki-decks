@@ -16,4 +16,4 @@ Explain the <b>architecture Single Frame CNN</b>.
   <b>Visualization:</b>
 </div>
 <div><img src=
-"paste-56a02abd8c1e4a4439d622c747363b5e1ad0769e.jpg"></div>
+paste-56a02abd8c1e4a4439d622c747363b5e1ad0769e.jpg></div>

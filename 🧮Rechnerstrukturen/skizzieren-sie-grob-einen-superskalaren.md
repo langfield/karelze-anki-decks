@@ -28,7 +28,7 @@ Sie auch die Komponenten.
   <b>Skizze:</b>
 </div>
 <div><img src=
-"paste-fb822c5207ceeda59487a7a75780152221387b20.jpg"></div>
+paste-fb822c5207ceeda59487a7a75780152221387b20.jpg></div>
 <div>
   (in rot Phasen der Pipeline. Retire ähnlich zu Write back)
 </div>

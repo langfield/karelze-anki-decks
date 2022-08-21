@@ -20,4 +20,4 @@ function of the dimensions).
   <b>Visualization</b>:
 </div>
 <div><img src=
-"paste-574a7f11d31ac3a66574149fded072d7a2e6e96c.jpg"></div>
+paste-574a7f11d31ac3a66574149fded072d7a2e6e96c.jpg></div>

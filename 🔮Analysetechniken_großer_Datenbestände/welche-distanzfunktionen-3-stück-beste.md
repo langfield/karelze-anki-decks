@@ -21,7 +21,7 @@ zwischen Clustern zu berechnen?
   \boldsymbol{x}_{j}\right)\)
 </div>
 <div><img src=
-"paste-1769a1d2b3eb91d2bcaf68d843fe5208b1741ccd.jpg"></div>
+paste-1769a1d2b3eb91d2bcaf68d843fe5208b1741ccd.jpg></div>
 <div>
   <b>Complete Linkage</b>
 </div>
@@ -34,7 +34,7 @@ zwischen Clustern zu berechnen?
   \boldsymbol{x}_{j}\right)\)
 </div>
 <div><img src=
-"paste-9e375eedd4394eb696c28905b4dc118751d18a7f.jpg"></div>
+paste-9e375eedd4394eb696c28905b4dc118751d18a7f.jpg></div>
 <div>
   <b>Average Linkage</b>
 </div>
@@ -48,4 +48,4 @@ zwischen Clustern zu berechnen?
   C_{k}} d\left(\boldsymbol{x}_{i}, \boldsymbol{x}_{j}\right)\)
 </div>
 <div><img src=
-"paste-efd5b89295384446131675ddee1c066c481369f3.jpg"></div>
+paste-efd5b89295384446131675ddee1c066c481369f3.jpg></div>

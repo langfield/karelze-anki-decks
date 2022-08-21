@@ -17,7 +17,7 @@ Nennen sie jeweils Beispiele in Palladio.
   <b>Bsp:</b> Components, Interfaces.
 </div>
 <div><img src=
-"paste-dfdb6222359db3928d8ea7166d624b4660e6adae.jpg"></div>
+paste-dfdb6222359db3928d8ea7166d624b4660e6adae.jpg></div>
 <div>
   <b>Second class entities:</b>
   <div>
@@ -31,4 +31,4 @@ Nennen sie jeweils Beispiele in Palladio.
   </div>
 </div>
 <div><img src=
-"paste-55ffbee728c72c8656d33d5cf15655512cc4b2c2.jpg"></div>
+paste-55ffbee728c72c8656d33d5cf15655512cc4b2c2.jpg></div>

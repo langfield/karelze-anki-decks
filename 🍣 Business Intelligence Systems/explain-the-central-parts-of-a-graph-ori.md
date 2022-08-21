@@ -28,4 +28,4 @@ edges.
   Visualization:
 </div>
 <div><img src=
-"paste-87a9fdb30dd0831ef8d13c4fcf5ba9236d2a4e94.jpg"></div>
+paste-87a9fdb30dd0831ef8d13c4fcf5ba9236d2a4e94.jpg></div>

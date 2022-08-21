@@ -15,9 +15,9 @@ Wie erfolgt die Abarbeitung von <b>Befehlen</b> bei der <b>MMX-Technologie</b>?
   <b>Allgemein:</b>
 </div>
 <div><img src=
-"paste-321bff76bc7bd3f2252b93c1f6de38a73229a785.jpg"></div>
+paste-321bff76bc7bd3f2252b93c1f6de38a73229a785.jpg></div>
 <div>
   <b>Beispiel für verschiedene Datentypen:</b>
 </div>
 <div><img src=
-"paste-7c098ecb694414c5cf34db0b0a1a36f4b7caa77d.jpg"></div>
+paste-7c098ecb694414c5cf34db0b0a1a36f4b7caa77d.jpg></div>

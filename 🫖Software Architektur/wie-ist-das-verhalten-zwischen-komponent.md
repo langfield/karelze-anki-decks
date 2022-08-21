@@ -17,4 +17,4 @@ zwei Komponenten miteinander kommunizieren.
   <b>Visualisierung</b>:
 </div>
 <div><img src=
-"paste-6206581d555bbaa69180e7511472976ef5b950c9.jpg"></div>
+paste-6206581d555bbaa69180e7511472976ef5b950c9.jpg></div>

@@ -29,4 +29,4 @@ Wie funktioniert P2P-Kommunikation bei MPI?
     </ul>
 </ul>
 <div><img src=
-"paste-a960eb99592963886b6cf80ad3a396cf5ed5496e.jpg"></div>
+paste-a960eb99592963886b6cf80ad3a396cf5ed5496e.jpg></div>

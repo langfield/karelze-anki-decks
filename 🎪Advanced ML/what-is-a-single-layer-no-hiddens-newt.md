@@ -8,7 +8,7 @@ markdown: false
 What is a single layer (no hiddens) newtwork with sigmoid
 activation function?
 <div><img src=
-"paste-1b4d997ef44878da5fbfe4d009c258df38e979f7.jpg"></div>
+paste-1b4d997ef44878da5fbfe4d009c258df38e979f7.jpg></div>
 <div>
   \[o_{k}(\mathrm{x})=\frac{1}{1+\exp \left(-z_{k}\right)}\]
 </div>

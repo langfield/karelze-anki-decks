@@ -25,4 +25,4 @@ HDFS is a distributed file system to run on distributed hardware.
   The name nodes execute filesystem operations like opening files.
 </div>
 <div><img src=
-"paste-6d55dcd13eac11be5e868dd5caf385fc84a247e7.jpg"></div>
+paste-6d55dcd13eac11be5e868dd5caf385fc84a247e7.jpg></div>

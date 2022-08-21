@@ -8,7 +8,7 @@ markdown: false
 Calculate the derivative for the following computational graph
 using the chain rule.
 <div><img src=
-"paste-976fda0679c3ce7eff570a48ef8bde4ee4e178af.jpg"></div>
+paste-976fda0679c3ce7eff570a48ef8bde4ee4e178af.jpg></div>
 <div>
   \(\begin{aligned} f(x, y) &=y+\exp (x y) \\ x(t) &=\cos t
   \\ y(t) &=t^{2} \end{aligned}\)

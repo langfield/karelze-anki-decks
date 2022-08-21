@@ -26,4 +26,4 @@ Explain what an <b>Artificial Neural Network</b> is?
   An ANN consists of a input layer, hidden layer and output layer.
 </div>
 <div><img src=
-"paste-65748b755dcd3b2d86c54432cd4d2d2ca3f0bf6e.jpg"></div>
+paste-65748b755dcd3b2d86c54432cd4d2d2ca3f0bf6e.jpg></div>

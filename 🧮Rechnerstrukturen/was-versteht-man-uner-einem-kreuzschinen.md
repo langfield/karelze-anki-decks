@@ -26,4 +26,4 @@ Was versteht man uner einem <b>Kreuzschinenverteiler</b>
   Kreuzungspunkt
 </div>
 <div><img src=
-"paste-52a3f4e8df74ebf876c9794c80f6fe722432c46c.jpg"></div>
+paste-52a3f4e8df74ebf876c9794c80f6fe722432c46c.jpg></div>

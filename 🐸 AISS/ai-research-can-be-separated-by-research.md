@@ -8,7 +8,7 @@ markdown: false
 AI research can be separated by <b>research streams</b> and
 <b>objective</b>.
 <div><img src=
-"paste-8971d4387a835d827e0e8ccecf61f42caab64da9.jpg"></div>
+paste-8971d4387a835d827e0e8ccecf61f42caab64da9.jpg></div>
 
 ### Back
 <img src="paste-e5b7141d1e19a8b13a9331bac48d5364103be25b.jpg"><div>

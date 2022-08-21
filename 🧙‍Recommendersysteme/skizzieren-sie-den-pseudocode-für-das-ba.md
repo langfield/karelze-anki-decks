@@ -21,4 +21,4 @@ Leader-Follower Clustering</b>.
   Verschiebung Cluster-Mittelpunkte:
 </div>
 <div><img src=
-"paste-f7ff00e0462f872aa07923ea36fd177a9246e4b4.jpg"></div>
+paste-f7ff00e0462f872aa07923ea36fd177a9246e4b4.jpg></div>

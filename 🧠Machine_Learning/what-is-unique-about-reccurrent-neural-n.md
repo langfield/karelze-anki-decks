@@ -45,6 +45,6 @@ formula at every time step:
   calculation. Hence, the name <b>Recurrent Neural Net</b>.
 </div>
 <div><img src=
-"paste-b5b85fd9853b59c76953a26ca1100700dd7c43c3.jpg"></div>
+paste-b5b85fd9853b59c76953a26ca1100700dd7c43c3.jpg></div>
 <div><img src= 
 "https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MWnh07mnETIlqhjJW0c%2F-Mez-oZInzLyLqK64v0B%2F-Mez8cmuRa0y6Wlhj4Jq%2Fcomputational_graph_rnn.JPG?alt=media&token=a14b29dc-ec2d-4067-917a-01c0cb0bd00d"></div>

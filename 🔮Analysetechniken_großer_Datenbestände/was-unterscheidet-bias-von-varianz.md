@@ -24,4 +24,4 @@ markdown: false
     <p>(Noise (nicht in Vorlesung))
 </ol>
 <div><img src=
-"paste-ac5c967ca672f4c79022bd881ebecca695b90b35.jpg"></div>
+paste-ac5c967ca672f4c79022bd881ebecca695b90b35.jpg></div>

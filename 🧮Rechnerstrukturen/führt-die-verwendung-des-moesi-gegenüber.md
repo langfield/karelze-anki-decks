@@ -20,4 +20,4 @@ Leistungssteigerung vorhanden.
   MESI: Lesend: 8 Zugriffe - Schreibend: 3 Zugriffe
 </div>
 <div><img src=
-"paste-dfe15af116fc13c40093fcf50dc563855be851eb.jpg"></div>
+paste-dfe15af116fc13c40093fcf50dc563855be851eb.jpg></div>

@@ -18,4 +18,4 @@ by e. g. increasing the increment for ranges.
   <b>Visualization</b>:
 </div>
 <div><img src=
-"paste-4160fc0a8a0ac5c0e7512a80bb21b0ea33dd159e.jpg"></div>
+paste-4160fc0a8a0ac5c0e7512a80bb21b0ea33dd159e.jpg></div>

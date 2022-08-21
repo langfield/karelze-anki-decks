@@ -41,9 +41,9 @@ Erklären Sie den Dichte-basierten Ansatz <b>LOF</b> zur Ermittlung von Outliern
   <b>Visualisierung:</b>
 </div>
 <div><img src=
-"paste-49d6003857ec38f949db053a4d25904e7e544ff8.jpg"></div>
+paste-49d6003857ec38f949db053a4d25904e7e544ff8.jpg></div>
 <div><img src=
-"paste-d146c963d15d1a5f694515740290c2d0d34be937.jpg"></div>
+paste-d146c963d15d1a5f694515740290c2d0d34be937.jpg></div>
 <div>
   10 + 8 kommt daher, da man die Distanz nimmt vom Punkt \(P_1\)
   aus, zu seinen zwei nächsten Nachbarn. Die <i>lrd</i> ist der

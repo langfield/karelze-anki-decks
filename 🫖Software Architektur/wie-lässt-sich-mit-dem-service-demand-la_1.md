@@ -18,7 +18,7 @@ Software Demand Law für viele Anfragetypen zur selben Zeit.
   <b>Visualisierung</b>:
 </div>
 <div><img src=
-"paste-71779bcdb89ddfb8f2ac8b20bcee846663d18d57.jpg"></div>
+paste-71779bcdb89ddfb8f2ac8b20bcee846663d18d57.jpg></div>
 <div>
   (Man kennt Anteile nicht)
 </div>

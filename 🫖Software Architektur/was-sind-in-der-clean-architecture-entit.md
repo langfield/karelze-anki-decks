@@ -8,7 +8,7 @@ markdown: false
 Was sind in der Clean Architecture <b>Entities</b>, <b>Use
 Cases</b> und <b>Interface Adapters</b>?
 <div><img src=
-"paste-779a4f0c79c1acc4ded9362c5f1e0a0cc007ccf2.jpg"></div>
+paste-779a4f0c79c1acc4ded9362c5f1e0a0cc007ccf2.jpg></div>
 
 ### Back
 <p><strong>Entities</strong>

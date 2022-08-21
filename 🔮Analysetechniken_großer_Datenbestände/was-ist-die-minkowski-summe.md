@@ -15,7 +15,7 @@ vorgegebenem \(D\) ist.
   <b>Visualisierung:</b>
 </div>
 <div><img src=
-"paste-7c54bd2e0f63c9c25aa2e40ea106bb85ff3d5753.jpg"></div>
+paste-7c54bd2e0f63c9c25aa2e40ea106bb85ff3d5753.jpg></div>
 <div>
   Man legt um Ecke eine Kugel und legt weitere Kugeln entlang der
   Außenkanten der Form z. B. Quadrat. Die Minkowski-Summe

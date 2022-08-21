@@ -12,7 +12,7 @@ Wie ist die \(\operatorname { core-distance }_{\text {MinPts }}(0)\) definiert?
 kleinste Wert den \(\varepsilon\) annehmen kann, sodass \(o\) ein
 dichtes Objekt ist.
 <div><img src=
-"paste-64a124ca08ffef9d3c6e35bd72531b2b2ee75ded.jpg"></div>
+paste-64a124ca08ffef9d3c6e35bd72531b2b2ee75ded.jpg></div>
 <div>
   Siehe grünlicher Kreis.
 </div>

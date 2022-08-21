@@ -26,4 +26,4 @@ Effect Specification</b>?
   <li>....
 </ul>
 <div><img src=
-"paste-06140310d8fb3c8b642830de8954d52fbc6e773f.jpg"></div>
+paste-06140310d8fb3c8b642830de8954d52fbc6e773f.jpg></div>

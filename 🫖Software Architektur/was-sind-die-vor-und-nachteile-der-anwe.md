@@ -26,4 +26,4 @@ Was sind die <b>Vor- und Nachteile</b> der Anwendung des s<b>ervice demand laws<
   Skizze)
 </ul>
 <div><img src=
-"paste-c38660528f0d68216a1edd627eec6e1a5f8a133b.jpg"></div>
+paste-c38660528f0d68216a1edd627eec6e1a5f8a133b.jpg></div>

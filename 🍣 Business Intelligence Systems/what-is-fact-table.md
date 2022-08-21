@@ -16,4 +16,4 @@ surrounded by dimension tables.
   <b>Visualization:</b>
 </div>
 <div><img src=
-"paste-322532d782b0079d8346b3052e2856f65e40088b.jpg"></div>
+paste-322532d782b0079d8346b3052e2856f65e40088b.jpg></div>

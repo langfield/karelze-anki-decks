@@ -11,4 +11,4 @@ bei <b>Ordered Variablen</b>?
 ### Back
 <img src="paste-e30d91c04717966f4e900164970e5dbff36bc642.jpg">
 <div><img src=
-"paste-ee3c7007a7094593346e227ed3324f462cd356cb.jpg"></div>
+paste-ee3c7007a7094593346e227ed3324f462cd356cb.jpg></div>

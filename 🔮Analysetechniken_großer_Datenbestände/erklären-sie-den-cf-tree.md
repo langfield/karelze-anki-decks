@@ -34,6 +34,6 @@ Erklären Sie den <b>CF-Tree</b>?
   Ermittlung Cluster-Features:
 </div>
 <div><img src=
-"paste-45ff212f3b41e490185184cb63857c22726cd7d1.jpg"></div>
+paste-45ff212f3b41e490185184cb63857c22726cd7d1.jpg></div>
 <div><img src=
-"paste-7a87dc1bb63573bc8e7598ad60e5c2bc5e7571a4.png"></div>
+paste-7a87dc1bb63573bc8e7598ad60e5c2bc5e7571a4.png></div>

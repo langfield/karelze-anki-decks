@@ -11,7 +11,7 @@ formulieren?
   Berechnen Sie den die Eigenwerte für folgenden Graph:
 </div>
 <div><img src=
-"Untitled-496962fbca60e763fa4e82259f0c7a45a826ef0d.png"></div>
+Untitled-496962fbca60e763fa4e82259f0c7a45a826ef0d.png></div>
 
 ### Back
 <div><div>Das Web hat \(n\) Seiten. Jede Seite wird durch eine Zahl \(k \in 1, \ldots, k, \ldots n\) indiziert.

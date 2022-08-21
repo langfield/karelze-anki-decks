@@ -14,4 +14,4 @@ integriert. Er implementiert dann abstraktere Funktionen wie das
 matching von Nachrichten, das Formen von Paketen oder das Versenden
 von Bestätigungen.
 <div><img src=
-"paste-4b1d43e897780768c4ac2306f17e40beea96b828.jpg"></div>
+paste-4b1d43e897780768c4ac2306f17e40beea96b828.jpg></div>

@@ -30,4 +30,4 @@ Es wird eine Priority Queue als sg. "ControlList" verwendet.
   \(p_1\), dann \(p_2\) kommen.
 </div>
 <div><img src=
-"paste-61e7f3561bb5052d0a54cca16f058bc9dfd17fbe.jpg"></div>
+paste-61e7f3561bb5052d0a54cca16f058bc9dfd17fbe.jpg></div>

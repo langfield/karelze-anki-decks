@@ -19,4 +19,4 @@ Name cases where class models are not adequate.
   <b>Example:</b>
 </div>
 <div><img src=
-"paste-61f255631856c345cc8af363dc8399a64a76d462.jpg"></div>
+paste-61f255631856c345cc8af363dc8399a64a76d462.jpg></div>

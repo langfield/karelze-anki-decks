@@ -16,4 +16,4 @@ Number of outgoing network connections from one layer.
   See purple lines below
 </div>
 <div><img src=
-"paste-f4ea162621a06aece55728cbef89f943b1591026.jpg"></div>
+paste-f4ea162621a06aece55728cbef89f943b1591026.jpg></div>

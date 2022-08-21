@@ -22,4 +22,4 @@ What is the problem of <b>multi-agent environments</b>? How can it be solved?
     available information.
   </ul>
 </div><img src=
-"paste-26d2f31a424e58fc26bad74d6a234258b92f1805.jpg">
+paste-26d2f31a424e58fc26bad74d6a234258b92f1805.jpg>

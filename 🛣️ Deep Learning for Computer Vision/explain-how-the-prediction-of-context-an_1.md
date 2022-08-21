@@ -18,4 +18,4 @@ Explain how the prediction of context and position works in self-supervised lear
   <b>Visualization:</b>
 </div>
 <div><img src=
-"paste-7dee024c8b699b63c6c6dceb92b0af1d29d28424.jpg"></div>
+paste-7dee024c8b699b63c6c6dceb92b0af1d29d28424.jpg></div>

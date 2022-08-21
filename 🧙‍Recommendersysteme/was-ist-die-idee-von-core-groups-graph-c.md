@@ -30,4 +30,4 @@ Was ist die Idee von <b>Core Groups Graph Clustering</b>?
   <b>Skizze:</b>
 </div>
 <div><img src=
-"Untitled-9c480b2e05d08a818b65ae16416793968efb1c94.png"></div>
+Untitled-9c480b2e05d08a818b65ae16416793968efb1c94.png></div>

@@ -31,6 +31,6 @@ Describe what a <b>convolutional layer</b> is.
   <b>Visualization:</b>
 </div>
 <div><img src=
-"paste-45943dd0e0e24e5cd3ceac41704eb7d264cb730b.jpg"></div>
+paste-45943dd0e0e24e5cd3ceac41704eb7d264cb730b.jpg></div>
 <div><img src=
-"paste-1f08bdc45f900c733ad728cff19fb90a391f1e5f.jpg"></div>
+paste-1f08bdc45f900c733ad728cff19fb90a391f1e5f.jpg></div>

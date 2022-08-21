@@ -9,7 +9,7 @@ Explain how one can use the following computational graph to
 calculate the derivatives. Note them down in a simplified notation
 / as error signals.
 <div><img src=
-"paste-c0368e2f12364c4b2f4628f6c39483c989496ce5.jpg"></div>
+paste-c0368e2f12364c4b2f4628f6c39483c989496ce5.jpg></div>
 <div>
   <b>Forward pass:</b>
 </div>

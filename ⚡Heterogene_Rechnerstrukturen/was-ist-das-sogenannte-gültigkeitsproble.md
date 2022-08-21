@@ -17,4 +17,4 @@ markdown: false
   gebracht werden → Cache-Koheränz.
 </ul>
 <div><img src=
-"paste-08d17b88fb59cb41acf4f614c0e29c61b6397974.jpg"></div>
+paste-08d17b88fb59cb41acf4f614c0e29c61b6397974.jpg></div>

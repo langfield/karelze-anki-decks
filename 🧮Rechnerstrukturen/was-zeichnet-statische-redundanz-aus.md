@@ -14,4 +14,4 @@ Einsatzzeitraums die gleiche Nutzfunktion erbringen.
   Skizze eines <b>n-von-m-Systems</b>:
 </div>
 <div><img src=
-"paste-d38e86931c3661d60e49833f6d882a703c3fe4c6.jpg"></div>
+paste-d38e86931c3661d60e49833f6d882a703c3fe4c6.jpg></div>

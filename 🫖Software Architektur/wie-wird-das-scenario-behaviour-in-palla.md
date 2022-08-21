@@ -29,4 +29,4 @@ System sein.
   <b>Visualisierung:</b>
 </div>
 <div><img src=
-"paste-68f575814915076b8583bf063a4867b668c26a7c.jpg"></div>
+paste-68f575814915076b8583bf063a4867b668c26a7c.jpg></div>

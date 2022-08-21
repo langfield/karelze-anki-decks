@@ -15,7 +15,7 @@ Technologie nutzen.
   <b>Skizze:</b>
 </div>
 <div><img src=
-"paste-410896eec28331bdb6bc9c6055d26fc2bbf83ee1.jpg"></div>
+paste-410896eec28331bdb6bc9c6055d26fc2bbf83ee1.jpg></div>
 <div>
   <b>Abwägung:</b>
 </div>

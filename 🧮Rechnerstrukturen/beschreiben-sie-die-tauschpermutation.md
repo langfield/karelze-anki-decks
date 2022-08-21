@@ -14,4 +14,4 @@ Negation des niedrigwertigsten Bits.
   a_{n-1}, \ldots, a_{2}, \bar{a}_{1}\right)\)
 </div>
 <div><img src=
-"paste-4c2744929d4e215c0f32299e567467abe83dd32c.jpg"></div>
+paste-4c2744929d4e215c0f32299e567467abe83dd32c.jpg></div>

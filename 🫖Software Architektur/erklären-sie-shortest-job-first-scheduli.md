@@ -13,7 +13,7 @@ Erklären Sie <b>Shortest Job First Scheduling</b>
   bedient.
 </div>
 <div><img src=
-"paste-13f53921673080116276399fe8d1a9720567eced.jpg"></div>
+paste-13f53921673080116276399fe8d1a9720567eced.jpg></div>
 <div>
   <b>Vorteil:</b> Hoher Durchsatz, weil kurze Jobs fix abgearbeitet
   werden. Vereinzelte (große) Jobs warten lang.

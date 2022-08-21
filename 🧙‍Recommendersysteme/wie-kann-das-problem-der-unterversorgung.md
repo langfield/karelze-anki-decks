@@ -14,7 +14,7 @@ Der Empfehlungsgeber erhält eine eine Ausgleichszahlung vom Broker
   <b>Beispiel:</b>
 </div>
 <div><img src=
-"paste-11ca25ff38299ebb7e0ad63b1532066677033de9.jpg"></div>
+paste-11ca25ff38299ebb7e0ad63b1532066677033de9.jpg></div>
 <div>
   Der Empfehlungsgeber (zuerst konsumierende) erhält zwischen 1 und
   5 GE, "weil das seinen Verlust ausgleicht".

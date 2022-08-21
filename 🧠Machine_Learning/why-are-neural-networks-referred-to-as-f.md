@@ -17,4 +17,4 @@ is not linearily separable).
   classification layer.
 </div>
 <div><img src=
-"paste-088e228eef7bcb8b8392a02cdd5c05b14be347ff.jpg"></div>
+paste-088e228eef7bcb8b8392a02cdd5c05b14be347ff.jpg></div>

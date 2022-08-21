@@ -13,7 +13,7 @@ Was versteht man unter einem v<i>iew type</i>?
   Meta-Modells), die sichtbar sind.
 </div>
 <div><img src=
-"paste-62a879e564c945f5f7787a5a08721b1f48c9b84c.jpg"></div>
+paste-62a879e564c945f5f7787a5a08721b1f48c9b84c.jpg></div>
 <div>
   <div>
     Ein <b>View Type</b> definiert eine Menge an Meta-Klassen,

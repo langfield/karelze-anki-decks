@@ -15,4 +15,4 @@ interspersed with <b>activation functions</b> e. g. ReLU and
 <b>Fully-connected (FC) layers</b> to compute the output
 (regression or classification)
 <div><img src=
-"paste-39b9827d44a2cbcf60ec14ec968f8946ac49b3fc.jpg"></div>
+paste-39b9827d44a2cbcf60ec14ec968f8946ac49b3fc.jpg></div>

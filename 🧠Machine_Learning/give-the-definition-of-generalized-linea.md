@@ -27,4 +27,4 @@ Give the definition of <b>generalized linear regression models / linear basis fu
   x^{3} \end{array}\right] \]
 </div>
 <div><img src=
-"paste-6fd93cf457a811c4f11916b6f814266eb94ad44d.jpg"></div>
+paste-6fd93cf457a811c4f11916b6f814266eb94ad44d.jpg></div>

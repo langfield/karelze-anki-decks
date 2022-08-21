@@ -20,4 +20,4 @@ Beschreiben Sie den <b>Datensetup</b> bei <b>BibTip</b>?
   für ein Dokument \(D\) dar.
 </ul>
 <div><img src=
-"paste-851b20ddc9e4ae00b25a3a0a32c8b7e1d5be0110.jpg"></div>
+paste-851b20ddc9e4ae00b25a3a0a32c8b7e1d5be0110.jpg></div>

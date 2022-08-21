@@ -17,4 +17,4 @@ Was umfasst der <i>Assembly view type</i>?
   <b>Visualisierung</b>:
 </div>
 <div><img src=
-"paste-97bb759859b35dab19f60c8ca0b943f22defbc42.jpg"></div>
+paste-97bb759859b35dab19f60c8ca0b943f22defbc42.jpg></div>

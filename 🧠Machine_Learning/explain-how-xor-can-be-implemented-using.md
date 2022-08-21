@@ -31,7 +31,7 @@ Explain how XOR can be implemented using a Neural Net?
   </div>
 </div>
 <div><img src=
-"paste-319cebfe22365c7b22818945d6b3cf790251a701.jpg"></div>
+paste-319cebfe22365c7b22818945d6b3cf790251a701.jpg></div>
 <div>
   \(h_1 >=0\) Are both inputs 0, only the bias term (-0.5) would
   impact. Thus -0.5 would not be greater than 0. However, if one

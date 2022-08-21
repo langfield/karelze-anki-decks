@@ -25,7 +25,7 @@ Cluster zuordnen.
   <b>Illustration:</b>
 </div>
 <div><img src=
-"paste-a3a0528e83f0aee246650100d28fb1b34ece022c.jpg"></div>
+paste-a3a0528e83f0aee246650100d28fb1b34ece022c.jpg></div>
 <div>
   z. B. Zuordnung eines Konsumenten in Gruppe A = Laie oder Gruppe
   B = Profi. Es gibt Schnittmenge, wo Kunde gleichermaßen zum

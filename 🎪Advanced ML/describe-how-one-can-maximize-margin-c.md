@@ -7,7 +7,7 @@ markdown: false
 ### Front
 Describe how one can maximize Margin \(C\) of a SVM.
 <div><img src=
-"paste-a172437318fd74acaea643ab4909204b3eb5908d.jpg"></div>
+paste-a172437318fd74acaea643ab4909204b3eb5908d.jpg></div>
 
 ### Back
 \[\begin{array}{l} \underset{\beta_{0}, \beta_{1}, \ldots,

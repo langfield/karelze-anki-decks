@@ -8,7 +8,7 @@ markdown: false
 Betrachten Sie nachfolgende Tabelle für Methoden zur Sammlung von
 Daten:
 <div><img src=
-"paste-a624ec70fdec74dc23c870b6584c5fb2355f89aa.jpg"></div>
+paste-a624ec70fdec74dc23c870b6584c5fb2355f89aa.jpg></div>
 
 ### Back
 <div>

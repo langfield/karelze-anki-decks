@@ -18,7 +18,7 @@ workload</b> bei Warteschlangen?
   ein Nutzer an) oder Ankunftrate (z. B. 5 Anfragen pro Minute)
 </div>
 <div><img src=
-"paste-4942aefd4ca0c4d5955c2014ca022c4b1a01c77c.jpg"></div>
+paste-4942aefd4ca0c4d5955c2014ca022c4b1a01c77c.jpg></div>
 <div>
   <b>Closed Workload:</b>
 </div>
@@ -27,7 +27,7 @@ workload</b> bei Warteschlangen?
   Anzahl der Nutzer)
 </div>
 <div><img src=
-"paste-335c6f4b35b64bd68c52f1f6c3763f319dcedbd3.jpg"></div>
+paste-335c6f4b35b64bd68c52f1f6c3763f319dcedbd3.jpg></div>
 <div>
   <div>
     Mathematisch ist es egal, ob dieselben Nutzer durch das System

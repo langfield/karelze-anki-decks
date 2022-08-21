@@ -17,4 +17,4 @@ factors of the weight matrix \(W\) and a repeated use of the
   If the largest eigen value is > 1, gradients explode.
 </div>
 <div><img src=
-"paste-91e0d265856f3757aaf9d8d87f19b82bfb26fb42.jpg"></div>
+paste-91e0d265856f3757aaf9d8d87f19b82bfb26fb42.jpg></div>

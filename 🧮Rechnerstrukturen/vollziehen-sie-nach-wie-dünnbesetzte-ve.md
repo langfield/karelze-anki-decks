@@ -17,4 +17,4 @@ Vollziehen Sie nach, wie <b>dünnbesetzte Vektoren</b> / <b>Matritzen</b> in <b>
   <b>Beispiel:</b>
 </div>
 <div><img src=
-"paste-b9d2b512d320e5f227b036a5a7712c911d6c4def.jpg"></div>
+paste-b9d2b512d320e5f227b036a5a7712c911d6c4def.jpg></div>

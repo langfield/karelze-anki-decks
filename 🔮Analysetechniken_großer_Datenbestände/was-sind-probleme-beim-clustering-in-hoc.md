@@ -21,4 +21,4 @@ Räumen</b>?
   <li>Dimensionen können nicht apriori gepruned werden
 </ul>
 <div><img src=
-"paste-a5a61fa8fbba2f51a6c401d4f3a63ab3b0af14b8.jpg"></div>
+paste-a5a61fa8fbba2f51a6c401d4f3a63ab3b0af14b8.jpg></div>

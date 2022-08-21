@@ -14,7 +14,7 @@ Was umfasst der <i>Repository view type</i>?
   <li>Datentypen z. B. Rückgabetypen notwendig für Schnittstellen
 </ul>
 <div><img src=
-"paste-a4d9d78e1049d6a1ee3e1de9f765408afdb5d887.jpg"></div>
+paste-a4d9d78e1049d6a1ee3e1de9f765408afdb5d887.jpg></div>
 <div>
   Siehe ungebundene / gebundene Komponenten. Provides- und Required
   Schnittstellen. Auch möglich, dass Komponente dieselbe provides-

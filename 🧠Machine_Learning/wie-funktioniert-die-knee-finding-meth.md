@@ -17,4 +17,4 @@ zum Finden der optimalen Cluster-Anzahl bei</span>
   <li>bei abrupter Verbesserung des SSD hört man auf
 </ul>
 <div><img src=
-"paste-221678bdd29f30a141e99f77ac12e3a84bbe54fe.jpg"></div>
+paste-221678bdd29f30a141e99f77ac12e3a84bbe54fe.jpg></div>

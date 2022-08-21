@@ -14,4 +14,4 @@ one.
   It's slower than subtree replacement.
 </div>
 <div><img src=
-"paste-2217a7b6eed2affbe2fdeab2fd44459fba73acc2.jpg"></div>
+paste-2217a7b6eed2affbe2fdeab2fd44459fba73acc2.jpg></div>

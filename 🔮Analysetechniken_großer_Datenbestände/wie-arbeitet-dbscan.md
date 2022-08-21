@@ -17,9 +17,9 @@ Wie arbeitet <b>DBSCAN</b>?
   Verfahrens.
 </div>
 <div><img src=
-"paste-e9ff7a68e0d4ec01b0a3466f5885e4f954201210.jpg"></div>
+paste-e9ff7a68e0d4ec01b0a3466f5885e4f954201210.jpg></div>
 <div><img src=
-"paste-1990b755f054e314e27061e43b8fe5537a686d41.jpg"></div>
+paste-1990b755f054e314e27061e43b8fe5537a686d41.jpg></div>
 <div>
   <b>Intuition:</b>
 </div>

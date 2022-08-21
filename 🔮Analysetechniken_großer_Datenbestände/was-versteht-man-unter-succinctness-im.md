@@ -46,7 +46,7 @@ Was versteht man unter <strong>Succinctness</strong> im Zusammenhang mit <b>Cons
   <b>Beispiele</b>:
 </div>
 <div><img src=
-"paste-2d1fd60a353275f461a8408417e2d1e82081a10b.jpg"></div>
+paste-2d1fd60a353275f461a8408417e2d1e82081a10b.jpg></div>
 <div>
   <b>Beispiele für succint:</b>
 </div>

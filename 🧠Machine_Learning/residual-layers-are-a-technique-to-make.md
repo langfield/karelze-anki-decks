@@ -34,4 +34,4 @@ Residual layers are a technique to make networks deeper.
   Hence, the residual block.
 </div>
 <div><img src=
-"paste-a795048d2bef92bdbe249d3a19081382d6fa2a52.jpg"></div>
+paste-a795048d2bef92bdbe249d3a19081382d6fa2a52.jpg></div>

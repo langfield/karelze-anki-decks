@@ -14,4 +14,4 @@ explain its components.
 f\left(\boldsymbol{x}_{i}\right)\right)}_{\text {loss function
 }}+\underbrace{\|\mathbf{w}\|^{2}}_{\text {regularization }}\]
 <div><img src=
-"paste-c14aae6b9bd97fc81ea48fde4fc70b7e605c982d.jpg"></div>
+paste-c14aae6b9bd97fc81ea48fde4fc70b7e605c982d.jpg></div>

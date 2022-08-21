@@ -15,4 +15,4 @@ Zustätzlicher Master z. B. DMA kann Kontrolle über Bus übernehmen
   Datenbereich
 </ul>
 <div><img src=
-"paste-b29bacdce0809645a8cf86dd3d540285526047cd.jpg"></div>
+paste-b29bacdce0809645a8cf86dd3d540285526047cd.jpg></div>

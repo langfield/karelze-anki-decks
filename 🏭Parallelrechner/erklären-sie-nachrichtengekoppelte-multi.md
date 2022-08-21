@@ -24,4 +24,4 @@ und Adressräume.
   Punkt-zu-Punkt-Verbindungen gekoppelt.
 </div>
 <div><img src=
-"paste-38a0ef5d38bc83a04c0d9091e27ed496aad6fedf.jpg"></div>
+paste-38a0ef5d38bc83a04c0d9091e27ed496aad6fedf.jpg></div>
